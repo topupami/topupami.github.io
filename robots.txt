@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://topupami.github.io/sitemap/sitemap_index.topupami
+Sitemap: https://topupami.github.io/BdM/sitemap_index.topupami
+Sitemap: https://topupami.github.io/hmO/sitemap_index.topupami
+Sitemap: https://topupami.github.io/cvY/sitemap_index.topupami
+Sitemap: https://topupami.github.io/qDk/sitemap_index.topupami
+Sitemap: https://topupami.github.io/eKf/sitemap_index.topupami
+Sitemap: https://topupami.github.io/Wis/sitemap_index.topupami
+Sitemap: https://topupami.github.io/toe/sitemap_index.topupami
+Sitemap: https://topupami.github.io/YyK/sitemap_index.topupami
+Sitemap: https://topupami.github.io/kix/sitemap_index.topupami
+Sitemap: https://topupami.github.io/iZC/sitemap_index.topupami
+Sitemap: https://topupami.github.io/eJi/sitemap_index.topupami
+Sitemap: https://topupami.github.io/HdR/sitemap_index.topupami
+Sitemap: https://topupami.github.io/oVl/sitemap_index.topupami
+Sitemap: https://topupami.github.io/aTw/sitemap_index.topupami
+Sitemap: https://topupami.github.io/yJD/sitemap_index.topupami
+Sitemap: https://topupami.github.io/pwN/sitemap_index.topupami
+Sitemap: https://topupami.github.io/HtW/sitemap_index.topupami
+Sitemap: https://topupami.github.io/WHw/sitemap_index.topupami
+Sitemap: https://topupami.github.io/DHg/sitemap_index.topupami
+Sitemap: https://topupami.github.io/QRL/sitemap_index.topupami
